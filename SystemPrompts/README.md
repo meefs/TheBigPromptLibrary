@@ -38,6 +38,7 @@ System prompts / instructions of various LLM systems.
 - [GPT Builder](./OpenAI/gpt_builder.md)
 
 ## Anthropic
+- [Claude Opus 4.5 - Soul Document - 12/02/2025](./Anthropic/12022025-claude-opus4.5-soul-document.md)
 - [Claude Sonnet 4.5 - 10/28/2025](./Anthropic/10282025-Claude-Sonnet4.5.md)
 - [Claude Sonnet 4.5- 09/29/2025](./Anthropic/09292025-Claude-Sonnet4.5.md) (Official)
 - [Claude Opus 4.1 - 08/05/2025](./Anthropic/08052025-Claude-Opus4.1.md) (Official)
@@ -78,6 +79,7 @@ System prompts / instructions of various LLM systems.
 - [Meta.ai / llama3 - 04/18/2024](./Meta.ai/metaai_llama3-04182024.md)
 
 ## Copilot
+- [Microsoft Enterprise Copilot (GPT-5) - 12/02/2025 - Partial](./Copilot/microsoft_copilot_enterprise_12022025.md)
 - [Microsoft Copilot (Website) - 09/19/2025](./Copilot/microsoft_copilot_website_09192025.md)
 - [Microsoft Copilot (Website) - 02/25/2025](./Copilot/microsoft_copilot_website_02252025.md)
 - [Microsoft Copilot (Desktop App) - 11/13/2024](./Copilot/microsoft_copilot_desktop_11132024.md)
